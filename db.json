@@ -1,0 +1,22 @@
+{
+  "persons": [
+    {
+      "firstName": "Вася",
+      "lastName": "Пупкин",
+      "apiId": "v1",
+      "id": 1
+    },
+    {
+      "firstName": "Bobby",
+      "lastName": "mid",
+      "apiId": "v1",
+      "id": 2
+    },
+    {
+      "firstName": "Тоже Вася",
+      "lastName": "Но не Пупкин",
+      "apiId": "v1",
+      "id": 3
+    }
+  ]
+}
